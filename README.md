@@ -2,4 +2,4 @@
 
 My first repository
 
-I am a PhD student of University of Delaware.
+I am a PhD student of the University of Delaware.
